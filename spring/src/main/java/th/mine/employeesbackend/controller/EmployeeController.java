@@ -17,7 +17,7 @@ import java.util.Map;
 @RequestMapping("/api/v1")
 public class EmployeeController {
     /**
-     * NO DTO AND SERVICE ARE IMPLEMENTED
+     * NO DTO AND SERVICE LAYER ARE IMPLEMENTED
      */
     @Autowired
     private IEmployeeRepository employeeRepository;
